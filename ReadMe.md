@@ -4,3 +4,6 @@ You can also train the network yourself with the White or Black button. Press th
 
 In the Archive folder there are a few previous steps I took before I end up with this prototype.
 Followed tutorial: https://www.youtube.com/watch?v=60c4rMq-aH0&ab_channel=WebDevSimplified
+
+Libraries:
+- Brain.js
